@@ -1,0 +1,6 @@
+{
+  "name": "Shri Ram Hero - Hero MotoCorp Dealership",
+  "description": "Shri Ram Hero - Authorized Hero MotoCorp dealership at Dehra Mod, Nadbai, Bharatpur, Raj. Agency No: 8890992086. Showroom timings 8 AM to 6 PM. Best price offers and free accessories kit (helmet, seat cover, silencer cover, side mirror, first aid kit, tool kit etc.) with every vehicle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
